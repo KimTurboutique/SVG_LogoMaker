@@ -18,12 +18,12 @@ const questions =[
     {
         type: 'input',
         name: 'initials',
-        message: 'Enter three letters'
+        message: 'Enter three letters.'
     },
     {
         type: 'input',
         name: 'text color'
-        message: 
+        message: 'What color would you like your text to be?'
     },
     {
         type: 'list',
@@ -34,7 +34,7 @@ const questions =[
     {
         type: 'input',
         name: 'shape color'
-        message:
+        message: 'What color would you like to fill your shape?'
     },
     {
         type:
