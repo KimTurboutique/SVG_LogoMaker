@@ -1,5 +1,5 @@
 const CLI = require('./lib/cli')
 
-CLI().run();
+new CLI().run();
 
 // modularize index.js (make it cleaner) 
