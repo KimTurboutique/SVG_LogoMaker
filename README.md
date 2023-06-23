@@ -4,7 +4,7 @@ This project is created for web developers to use to generate a logo without the
 I implemented my knowledge of OOP to complete this project. Also by testing the application i was able to debug my code.
 
 ### Application User Flow Video:
-[Instructional Video]()
+[Instructional Video](https://drive.google.com/file/d/18TYOo7tk_aZhRpiF6YpDThck0dqpxAiZ/view)
 
 ### References and Tools are as follows:
 
